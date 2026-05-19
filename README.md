@@ -4,7 +4,7 @@
 
 <h1 align="left">Urio Paredes</h1>
 
-<h3 align="left">Software Engineer | Intelligent Systems | Linux | Automation | Cloud Technologies</h3>
+<h3 align="left">Software Engineer | Intelligent Systems | Linux | Automation | Cloud Technologies | Data analyst</h3>
 
 <p align="left">
 Exploring software engineering, Linux infrastructure, Kubernetes, AI and automation through real projects and continuous learning.
@@ -16,7 +16,7 @@ Exploring software engineering, Linux infrastructure, Kubernetes, AI and automat
 
 <br clear="both">
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack</h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
