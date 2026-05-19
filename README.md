@@ -11,7 +11,6 @@ Exploring software engineering, Linux infrastructure, Kubernetes, AI and automat
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UrioP&layout=compact&theme=gotham&hide_border=true&langs_count=8" height="150" alt="most used languages" />
   <img src="https://streak-stats.demolab.com?user=UrioP&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="150" alt="streak graph" />
 </div>
 
